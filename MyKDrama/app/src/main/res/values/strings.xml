@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">MyKDrama</string>
+    <string name="drama_name">Nama Drama</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="moveAbout">About Me</string>
+    <string name="selected">Drama Detail</string>
+
+    <string name="profil1">@drawable/myphoto</string>
+    <string name="about_name">Ika Nurfitriani</string>
+    <string name="about_email">kimraeyoo665@gmail.com</string>
+    <string name="about_backtohome">Kembali</string>
+    <string name="genre">Genre</string>
+    <string name="pemeran">Pemeran</string>
+    <string name="title_genre">Genre</string>
+    <string name="title_pemeran">Pemeran</string>
+    <string name="title_deskripsi">Deskripsi</string>
+    <string name="image_splash">Image_Splash</string>
+    <string name="Created">Apk created by Ika N</string>
+    <string name="share">Share</string>
+    <string name="title_tayang">Tayang di</string>
+    <string name="tayang">Tayang di</string>
+    <string name="title_jumlah">Jumlah Episode</string>
+    <string name="jumlah_episode">Jumlah Episode</string>
+    <string name="title_rating">Rating</string>
+    <string name="alamat">Bantul, DI Yogyakarta</string>
+    <string name="link">https://github.com/ikanurfitriani</string>
+
+
+    <string-array name="data_name">
+        <item>DECOY</item>
+        <item>MOUSE</item>
+        <item>TUNNEL</item>
+        <item>PARTNERS FOR JUSTICE</item>
+        <item>VAGABOND</item>
+        <item>SECRET ROYAL INSPECTOR AND JOY</item>
+        <item>LAW SCHOOL</item>
+        <item>TELL ME WHAT YOU SAW</item>
+        <item>THE GOOD DETECTIVE</item>
+        <item>BEYOND EVIL</item>
+        <item>STRANGER</item>
+        <item>INSPECTOR KOO</item>
+    </string-array>
+
+    <string-array name="data_decsription">
+        <item>Drama Decoy dibintangi oleh Jang Geun Suk, Heo Sung Tae dan Lee Elijah.
+        Drama ini tayang perdana di Prime Video pada 27 Januari 2023 dan berjumlah 12 episode. Decoy (The Bait) mengisahkan Noh Sang Chun, penipu keuangan yang melarikan diri, dan
+        Goo Do Han, pengacara yang beralih profesi menjadi detektif, yang menyelidiki kasus pembunuhan berantai yang terhubung dengan Sang Chun, mencari tahu apakah ia benar-benar
+        meninggal atau menjadi tersangka dalam kasus tersebut.</item>
+        <item>Drama Mouse dibintangi oleh Lee Seung-gi, Lee Hee-joon, Park Ju-hyun dan Kyung Soo-jin.
+        Drama ini tayang perdana di tvN pada 3 Maret 2021 dan berjumlah 20 episode. Jeong Ba-reum (Lee Seung-gi) adalah seorang petugas polisi
+        yang teguh, namun hidupnya berubah ketika dia bertemu dengan seorang pembunuh berantai psikopat.</item>
+        <item>Drama Tunnel dibintangi oleh Choi Jin-hyuk, Yoon Hyun-min dan Lee Yoo-young.
+        Drama ini tayang perdana di OCN pada 25 Maret 2017 dan berjumlah 16 episode. Park Gwang-ho, seorang detektif dengan 10 tahun pengalaman, menghilang secara misterius
+        pada tahun 1986 dan muncul kembali pada tahun 2017, membantu Letnan Kim Seon-jae dan Psikolog Shin Jae-yi dalam memecahkan kasus pembunuhan berantai yang tak terpecahkan
+        selama 30 tahun.</item>
+        <item>Drama Partners For Justice dibintangi oleh Jung Jae-young dan Jung Yoo-mi.
+        Drama ini tayang perdana di MBC pada 14 Mei 2018 dan berjumlah 32 episode. Drama ini Bercerita tentang seorang dokter forensik hebat bernama, Baek Boem dan jaksa wanita
+        cantik bernama, Eun Sol. Mereka bekerja sama untuk menyelesaikan kasus-kasus sadis, dan memberikan keadilan bagi si korban.</item>
+        <item>Drama Vagabond dibintangi oleh Lee Seung-gi, Bae Suzy dan Shin Sung-rok.
+        Drama ini tayang perdana di SBS TV pada 20 September 2019 dan berjumlah 16 episode. Cha Dal-gun, yang keponakannya tewas dalam kecelakaan pesawat misterius, melakukan
+        penyelidikan untuk mengungkap jaringan korupsi yang terlibat dalam kecelakaan tersebut, dan dalam prosesnya, terhubung dengan agen rahasia NIS, Go Hae-ri.</item>
+        <item>Drama Secret Royal Inspector and Joy dibintangi oleh OK Taec-yeon dan Kim Hye-yoon.
+        Drama ini tayang perdana di tvN pada 8 November 2021 dan berjumlah 16 episode. Drama ini menceritakan kisah seorang pencicip makanan muda yang secara tidak sengaja
+        menjadi inspektur kerajaan dan seorang wanita bercerai yang mencari kebahagiaan. Mereka bekerja sama untuk menyelidiki dan mengekspos politisi korup.</item>
+        <item>rama Law School dibintangi oleh Kim Myung-min, Ryu Hye-young, Kim Bum, dan Lee Jung-eun.
+        Drama ini tayang perdana di JTBC pada 14 April 2021 dan berjumlah 16 episode. Drama ini berfokus pada profesor hukum yang kontroversial dan mahasiswa fakultas hukum
+        yang terlibat dalam penyelidikan kematian seorang professor, berupaya membuktikan kebenaran serta menjelajahi aspek otentisitas, hukum, dan keadilan.</item>
+        <item>Drama Tell Me What You Saw dibintangi oleh Jang Hyuk, Choi Soo-young, dan Jin Seo-yeon.
+        Drama ini tayang perdana di OCN pada 1 Februari 2020 dan berjumlah 16 episode. Seorang profiler jenius yang eksentrik (Jang Hyuk) bekerja dengan seorang detektif
+        dengan memori fotografi (Choi Soo-young) dan seorang kepala polisi (Jin Seo-yeon) untuk mengejar seorang pembunuh berantai yang dianggap sudah mati.</item>
+        <item>Drama The Good Detective dibintangi oleh Son Hyun-joo, Jang Seung-jo, Lee Elijah, Oh Jung-se, dan Ji Seung-hyun.
+        Drama ini tayang perdana di JTBC pada 6 Juli 2020 dan berjumlah 16 episode. Drama ini menceritakan pertarungan antara detektif yang mencoba mengungkap kebenaran
+        dan mereka yang kerap menutupinya.</item>
+        <item>Drama Beyond Evil dibintangi oleh Shin Ha-kyun dan Yeo Jin-goo.
+        Drama ini tayang perdana di JTBC pada 19 Februari 2021 dan berjumlah 16 episode. Drama ini menceritakan dua pria pemberani, Lee Dong-sik dan Han Joo-won, melanggar
+        hukum untuk mengejar seorang pembunuh berantai, sementara merenungkan aspek tersembunyi dalam diri mereka sendiri dan orang-orang yang terlibat dalam kasus tersebut.</item>
+        <item>Drama Stranger dibintangi oleh aktris Kim Hye Soo serta dua aktor yaitu Lee Je Hoon dan Cho Jin Woong.
+        Drama ini tayang perdana di tvN pada 10 Juni 2017 dan berjumlah 18 episode. Hwang Si-mok dan Letnan Polisi Han Yeo-jin, yang menyelidiki kasus pembunuhan dan skema
+        korupsi besar, menghadapi perselisihan etika antara Kantor Kejaksaan dan Badan Kepolisian Nasional saat mereka melakukan penyelidikan independen dalam musim kedua.</item>
+        <item>Drama Inspector Koo dibintangi oleh Lee Young-ae, Kim Hye-jun, Kwak Sun-young, Kim Hae-sook, dan Lee Hong-nae.
+        Drama ini tayang perdana di JTBC pada 30 Oktober 2021 dan berjumlah 12 episode. Kisah Koo Kyung-yi (Lee Young-ae), dimana dunianya adalah tentang permainan dan alkohol,
+        ia sekaligus menggali kasus pembunuhan berantai misterius yang tampak sebagai kecelakaan.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/dramadecoy</item>
+        <item>@drawable/mouse</item>
+        <item>@drawable/tunnel</item>
+        <item>@drawable/partners_for_justice</item>
+        <item>@drawable/vagabond</item>
+        <item>@drawable/secretroyalinspectorandjoy</item>
+        <item>@drawable/lawschool</item>
+        <item>@drawable/tellmewhatyousaw</item>
+        <item>@drawable/the_good_detective</item>
+        <item>@drawable/beyondevil</item>
+        <item>@drawable/stranger</item>
+        <item>@drawable/inspectorkoo</item>
+    </integer-array>
+
+    <string-array name="data_genre">
+        <item>Crime and Thriller</item>
+        <item>Chime thriller, Suspense, Mystery and Sci-Fi</item>
+        <item>Thriller and Crime</item>
+        <item>Crime, Mystery and Medical</item>
+        <item>Spy, Crime, Action, Thriller and Romance</item>
+        <item>Historical Drama and Comedy</item>
+        <item>Legal Drama</item>
+        <item>Thriller and Suspense</item>
+        <item>Crime drama and Detective</item>
+        <item>Procedural and Psychological thriller</item>
+        <item>Crime, Drama and Thriller</item>
+        <item>Action, Thriller and Comedy</item>
+    </string-array>
+
+    <string-array name="data_pemeran">
+        <item>Jang Geun Suk, Heo Sung Tae dan Lee Elijah</item>
+        <item>Lee Seung-gi, Lee Hee-joon, Park Ju-hyun dan Kyung Soo-jin</item>
+        <item>Choi Jin-hyuk, Yoon Hyun-min dan Lee Yoo-young</item>
+        <item>Jung Jae-young dan Jung Yoo-mi</item>
+        <item>Lee Seung-gi, Bae Suzy dan Shin Sung-rok</item>
+        <item>Ok Taec-yeon dan Kim Hye-yoon</item>
+        <item>Kim Myung-min, Ryu Hye-young, Kim Bum, dan Lee Jung-eun</item>
+        <item>Jang Hyuk, Choi Soo-young, dan Jin Seo-yeon</item>
+        <item>Son Hyun-joo, Jang Seung-jo, Lee Elijah, Oh Jung-se, dan Ji Seung-hyun</item>
+        <item>Shin Ha-kyun dan Yeo Jin-goo</item>
+        <item>Kim Hye Soo, Lee Je Hoon dan Cho Jin Woong</item>
+        <item>Lee Young-ae, Kim Hye-jun, Kwak Sun-young, Kim Hae-sook, dan Lee Hong-nae</item>
+    </string-array>
+
+    <string-array name="data_tayang">
+        <item>Prime Video</item>
+        <item>tvN</item>
+        <item>OCN</item>
+        <item>MBC</item>
+        <item>SBS TV</item>
+        <item>tvN</item>
+        <item>JTBC</item>
+        <item>OCN</item>
+        <item>JTBC</item>
+        <item>JTBC</item>
+        <item>tvN</item>
+        <item>JTBC</item>
+    </string-array>
+
+    <string-array name="data_jumlahepisode">
+        <item>12 episode</item>
+        <item>20 episode</item>
+        <item>16 episode</item>
+        <item>32 episode</item>
+        <item>16 episode</item>
+        <item>16 episode</item>
+        <item>16 episode</item>
+        <item>16 episode</item>
+        <item>16 episode</item>
+        <item>16 episode</item>
+        <item>18 episode</item>
+        <item>12 episode</item>
+    </string-array>
+</resources>
