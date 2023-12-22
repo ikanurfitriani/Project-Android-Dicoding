@@ -1,5 +1,5 @@
 # My-Android-Project
-Repositori ini berisi project latihan dan hasil submission untuk kelas Dicoding yang saya ikuti dalam program IDCamp 2023. Saya mengikuti learning path Android. Pada kelas Memulai Pemrograman dengan Kotlin, saya mendapatkan review submission bintang 4. Dan pada kelas Belajar Membuat Aplikasi Android untuk Pemula, saya mendapatkan review submission bintang 5.
+Repositori ini berisi project latihan dan hasil submission untuk kelas Dicoding yang saya ikuti dalam program IDCamp 2023. Dalam program IDCamp 2023 ini, saya mengikuti learning path Android. Di dalam semua project terdapat <b> PENJELASAN PROGRAM </b> menggunakan <b> KOMENTAR </b>.
 
 ## My Certificate
 - Memulai Pemrograman dengan Kotlin : https://www.dicoding.com/certificates/L4PQ8DNOVZO1
