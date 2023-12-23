@@ -10,7 +10,7 @@ Hai, perkenalkan saya Ika Nurfitriani! Repositori ini merupakan hasil submission
 # Screenshot Aplikasi
 Berikut ini adalah hasil screenshot dari aplikasi MyKDrama:
 
-<img src="Screenshots/SplashScreen1.png" alt="SS1" width="150"> <img src="Screenshots/SplashScreen2.png" alt="SS2" width="150"> <img src="Screenshots/Home.png" alt="Home" width="150"> <img src="Screenshots/Drama-Detail.png" alt="Detail" width="150"> <img src="Screenshots/Share-Drama.png" alt="Share" width="150"> <img src="Screenshots/Button-About.png" alt="Home-About" width="150"> <img src="Screenshots/About.png" alt="About" width="150">
+<img src="Screenshots/SplashScreen1.png" alt="SS1" width="300"> <img src="Screenshots/SplashScreen2.png" alt="SS2" width="300"> <img src="Screenshots/Home.png" alt="Home" width="300"> <img src="Screenshots/Drama-Detail.png" alt="Detail" width="300"> <img src="Screenshots/Share-Drama.png" alt="Share" width="300"> <img src="Screenshots/Button-About.png" alt="Home-About" width="300"> <img src="Screenshots/About.png" alt="About" width="300">
 
 ## Author
 [@Ika Nurfitriani](https://github.com/ikanurfitriani)
