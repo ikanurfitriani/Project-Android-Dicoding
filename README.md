@@ -5,11 +5,11 @@ Repositori ini berisi project latihan dan hasil submission untuk kelas Dicoding 
 - Memulai Pemrograman dengan Kotlin : https://www.dicoding.com/certificates/L4PQ8DNOVZO1
 - Belajar Membuat Aplikasi Android untuk Pemula : https://www.dicoding.com/certificates/53XEYLJ1RPRN
 
-## About Folder
-- [Submission-mpk](https://github.com/ikanurfitriani/My-Android-Project/tree/master/Submission-mpk) : Folder submission untuk kelas Memulai Pemrograman dengan Kotlin.
-- [MyKDrama](https://github.com/ikanurfitriani/My-Android-Project/tree/master/MyKDrama) : Folder submission untuk kelas Belajar Membuat Aplikasi Android untuk Pemula.
-- [SS-BUKTI](https://github.com/ikanurfitriani/My-Android-Project/tree/master/SS-BUKTI) : Folder hasil submission setelah direview.
-- Folder lainnya : Folder yang berisi project latihan.
+## Directory Structure
+- `Submission-mpk` atau [Submission-mpk](https://github.com/ikanurfitriani/My-Android-Project/tree/master/Submission-mpk) : Direktori yang berisi hasil submission untuk kelas Memulai Pemrograman dengan Kotlin.
+- `MyKDrama` atau [MyKDrama](https://github.com/ikanurfitriani/My-Android-Project/tree/master/MyKDrama) : Direktori yang berisi hasil submission untuk kelas Belajar Membuat Aplikasi Android untuk Pemula.
+- `SS-BUKTI` atau [SS-BUKTI](https://github.com/ikanurfitriani/My-Android-Project/tree/master/SS-BUKTI) : Direktori yang berisi hasil submission setelah direview.
+- Direktori lainnya : Direktori yang berisi project latihan.
 
 ## Author
 [@Ika Nurfitriani](https://github.com/ikanurfitriani)
