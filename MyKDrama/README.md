@@ -1,5 +1,6 @@
 # MyKDrama
 Hai, perkenalkan saya Ika Nurfitriani! Repositori ini merupakan hasil submission dari kelas Belajar Membuat Aplikasi Android untuk Pemula. Hasil submission berupa projek aplikasi Android yang diberi nama MyKDrama. Aplikasi ini berguna untuk menampilkan informasi daftar drama.
+File `app-debug.apk` : Hasil build dari aplikasi MyKDrama.
 
 # Fitur-Fitur
 - SplashScreen: Aplikasi menampilkan logo/gambar dan keterangan pembuat.
