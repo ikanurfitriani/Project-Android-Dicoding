@@ -8,7 +8,7 @@ Repositori ini berisi project latihan dan hasil submission untuk kelas Dicoding 
 ## Directory Structure
 - `Submission-mpk` atau [Submission-mpk](https://github.com/ikanurfitriani/My-Android-Project/tree/master/Submission-mpk) : Direktori yang berisi hasil submission untuk kelas Memulai Pemrograman dengan Kotlin.
 - `MyKDrama` atau [MyKDrama](https://github.com/ikanurfitriani/My-Android-Project/tree/master/MyKDrama) : Direktori yang berisi hasil submission untuk kelas Belajar Membuat Aplikasi Android untuk Pemula.
-- `SS-BUKTI` atau [SS-BUKTI](https://github.com/ikanurfitriani/My-Android-Project/tree/master/SS-BUKTI) : Direktori yang berisi hasil submission setelah direview.
+- `SS-BUKTI` atau [SS-BUKTI](https://github.com/ikanurfitriani/My-Android-Project/tree/master/SS-BUKTI) : Direktori yang berisi screenshot hasil submission setelah direview.
 - Direktori lainnya : Direktori yang berisi project latihan.
 
 ## Author
